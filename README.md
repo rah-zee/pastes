@@ -6,6 +6,7 @@
 ## Full Addon List
 <details>
   <summary>Click me</summary>
+  
 *  ALL THE THINGS
 *  altoholic
 *  Astral Keys
