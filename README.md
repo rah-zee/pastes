@@ -6,68 +6,66 @@
 ## Full Addon List
 <details>
   <summary>Click me</summary>
-  
-  ### Heading
-  1.  ALL THE THINGS
-2.  altoholic
-3.  Astral Keys
-4.  Auctionator
-5.  Better Wardrobe and Transmog
-6.  BetterBags
-7.  BigWigs Encounter Tools
-8.  BigWigs_BFA
-9.  BigWigs_BC
-10.  BigWigs_Cata
-11.  BigWigs_DF
-12.  BigWigs_Legion
-13.  BigWigs_MoP
-14.  BigWigs_Shadowlands
-15.  BigWigs_Wod
-16.  BigWigs_WotLK
-17.  BlockChinese
-18.  BtWQuests
-19.  BtWQuests BFA
-20.  BtWQuests Cata
-21.  BtWQuests DF
-22.  BtWQuests Legion
-23.  BtWQuests MoP
-24.  BtWQuests Shadowlands
-25.  BtWQuests TBC
-26.  BtWQuests TWW
-27.  BtWQuests WoD
-28.  BtWQuests WotLK
-29.  Capping Battleground Timers
-30.  CraftSim
-31.  DejaCharacterStats
-32.  Details! Damage Meter
-33.  Global Ignore List and Chat Spam Filter
-34.  Grid2
-35.  HandyNotes
-36.  Instance Achievement Tracker
-37.  K Horrific Visions
-38.  LittleWigs
-39.  Livestock
-40.  Manuscripts Journal
-41.  Method Raid Tools
-42.  Mount Journal Enhanced
-43.  MoveAny
-44.  Mythic Dungeon Tools
-45.  Nova Instance Tracker
-46.  NPC Time
-47.  OmniCD
-48.  Pawn
-49.  Plater Nameplates
-50.  Premade Groups Filter
-51.  Raider.IO
-52.  RareScanner
-53.  RCLootCouncil
-54.  Simulationcraft
-55.  Talent Loadout Ex
-56.  TipTac Reborn
-57.  TomPoints
-58.  TomTom
-59.  TrufiGCD
-60.  Twitch Emotes v2
-61.  WeakAuras
-62.  World Quest Tracker
+*  ALL THE THINGS
+*  altoholic
+*  Astral Keys
+*  Auctionator
+*  Better Wardrobe and Transmog
+*  BetterBags
+*  BigWigs Encounter Tools
+*  BigWigs_BFA
+*  BigWigs_BC
+*  BigWigs_Cata
+*  BigWigs_DF
+*  BigWigs_Legion
+*  BigWigs_MoP
+*  BigWigs_Shadowlands
+*  BigWigs_Wod
+*  BigWigs_WotLK
+*  BlockChinese
+*  BtWQuests
+*  BtWQuests BFA
+*  BtWQuests Cata
+*  BtWQuests DF
+*  BtWQuests Legion
+*  BtWQuests MoP
+*  BtWQuests Shadowlands
+*  BtWQuests TBC
+*  BtWQuests TWW
+*  BtWQuests WoD
+*  BtWQuests WotLK
+*  Capping Battleground Timers
+*  CraftSim
+*  DejaCharacterStats
+*  Details! Damage Meter
+*  Global Ignore List and Chat Spam Filter
+*  Grid2
+*  HandyNotes
+*  Instance Achievement Tracker
+*  K Horrific Visions
+*  LittleWigs
+*  Livestock
+*  Manuscripts Journal
+*  Method Raid Tools
+*  Mount Journal Enhanced
+*  MoveAny
+*  Mythic Dungeon Tools
+*  Nova Instance Tracker
+*  NPC Time
+*  OmniCD
+*  Pawn
+*  Plater Nameplates
+*  Premade Groups Filter
+*  Raider.IO
+*  RareScanner
+*  RCLootCouncil
+*  Simulationcraft
+*  Talent Loadout Ex
+*  TipTac Reborn
+*  TomPoints
+*  TomTom
+*  TrufiGCD
+*  Twitch Emotes v2
+*  WeakAuras
+*  World Quest Tracker
 </details>
